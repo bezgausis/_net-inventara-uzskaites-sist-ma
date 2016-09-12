@@ -1,0 +1,27 @@
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\bin\Debug\wfp_2prd.exe.config
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\bin\Debug\wfp_2prd.exe
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\bin\Debug\wfp_2prd.pdb
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.Form1.resources
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.Properties.Resources.resources
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.csproj.GenerateResource.Cache
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.exe
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.pdb
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.csprojResolveAssemblyReference.cache
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\bin\Debug\wfp_2prd.exe.config
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.exe
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.pdb
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\bin\Debug\wfp_2prd.exe
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\bin\Debug\wfp_2prd.pdb
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.csprojResolveAssemblyReference.cache
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.Form1.resources
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.Properties.Resources.resources
+C:\Users\deniv\kursi 2016\inzinierija\wfp_2prd\wfp_2prd\obj\Debug\wfp_2prd.csproj.GenerateResource.Cache
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\bin\Debug\wfp_2prd.exe.config
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\obj\Debug\wfp_2prd.exe
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\obj\Debug\wfp_2prd.pdb
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\bin\Debug\wfp_2prd.exe
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\bin\Debug\wfp_2prd.pdb
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\obj\Debug\wfp_2prd.csprojResolveAssemblyReference.cache
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\obj\Debug\wfp_2prd.Form1.resources
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\obj\Debug\wfp_2prd.Properties.Resources.resources
+C:\Users\deniv\kursi 2016\inzinierija\3prd\wfp_2prd\obj\Debug\wfp_2prd.csproj.GenerateResource.Cache
